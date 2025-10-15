@@ -9,6 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?logo=typescript)
 
 ## how to publish a library on npm
+After creating an account on npmjs.com
 
 ```
 npm adduser
@@ -31,9 +32,12 @@ npm publish --registry=https://registry.npmjs.org/
 npm login --registry=https://registry.npmjs.org/
 ```
 
+# how update version
+```
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/InstitutoHidrografico/leaflet-toolkit.git
 git push -u origin main
+```
