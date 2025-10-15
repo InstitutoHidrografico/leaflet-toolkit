@@ -2,11 +2,13 @@
 
 ![github](https://img.shields.io/github/stars/institutohidrografico/leaflet-toolkit "Github")
 
-![Node.js](https://img.shields.io/badge/Node.js-22.17-339933?logo=node.js)
-![npm](https://img.shields.io/badge/npm-10.9.2-CB3837?logo=npm)
-![Vite](https://img.shields.io/badge/Vite-5.2.0-646CFF?logo=vite)
-![React](https://img.shields.io/badge/React-19.1-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-22.20.0-339933?logo=node.js)
+![npm](https://img.shields.io/badge/npm-11.6.2-CB3837?logo=npm)
+![Vite](https://img.shields.io/badge/Vite-5.3.10-646CFF?logo=vite)
+![React](https://img.shields.io/badge/React-19.2.0-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue?logo=typescript)
+
+## Description
 
 A versatile toolkit for **geospatial data visualization and analysis**, designed to support real-time monitoring, decision-making, and interdisciplinary applications.  
 Perfect for **maritime operations, hydrographic surveys, nautical charts, ship tracking, and marine navigation systems**.
@@ -22,6 +24,8 @@ Perfect for **maritime operations, hydrographic surveys, nautical charts, ship t
 ## 🌊 About Instituto Hidrográfico
 
 Developed by the **_Instituto Hidrográfico_** for advancing maritime research, hydrographic surveying, and oceanographic studies. This toolkit supports our mission to enhance marine navigation safety and promote sustainable ocean use.
+
+![Alt Print 000](https://github.com/institutohidrografico/leaflet-toolkit/blob/main/src/image/print.png "Print 000")
 
 ## Sumary
 * [Quick start](#quick-start)
