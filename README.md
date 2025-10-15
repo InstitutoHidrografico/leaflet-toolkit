@@ -1,6 +1,6 @@
 # _leaflet-toolkit_
 
-![github](https://img.shields.io/github/stars/institutohidrografico/leaflet-maps "Github")
+![github](https://img.shields.io/github/stars/institutohidrografico/leaflet-toolkit "Github")
 
 ![Node.js](https://img.shields.io/badge/Node.js-22.17-339933?logo=node.js)
 ![npm](https://img.shields.io/badge/npm-10.9.2-CB3837?logo=npm)
