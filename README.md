@@ -105,7 +105,7 @@ npm publish --registry=https://npm.pkg.github.com
 - [x] desenho derrota;
 - [ ] lighthouses, tide stations, and ETA calculations
 - [ ] ship Tracking - real-time vessel monitoring and trackin
-- [ ] controle de opacidade;
+- [ ] controle de opacidade da layer;
 - [ ] integração com APIs de dados externos: AIS
 - [ ] alertas de colisão baseados em rotas;
 - [ ] otimização de rotas considerando correntes e clima;
@@ -156,7 +156,7 @@ We welcome contributions! Please see our Contributing Guidelines for details on 
 4. **Push** to branch (git push origin feature/AmazingFeature);
 5. Open a **Pull Request**.
 
-Dúvidas? Abra uma [issue](https://github.com/institutohidrografico/leaflet-toolkit/issues)!
+Questions? Open an [issue](https://github.com/institutohidrografico/leaflet-toolkit/issues)!
 
 ## Developers
 > [Instituto Hidrográfico](https://github.com/institutohidrografico)
